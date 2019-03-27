@@ -8,6 +8,9 @@ In dieser Arbeit sind vier Python Beispiele verwendet, welche hier als frei zur 
 Es sind dies die Beispiele:
 
 Rekursiv Zahlen Aufsummieren: sumRecursive.py
+
 Fakultätsberechnug: factorialRecurive.py
+
 Binäre Suche in sortierte Liste: binSearchRecursiv.py
+
 Koch-Schneeflocken: KochRecursiv.py
