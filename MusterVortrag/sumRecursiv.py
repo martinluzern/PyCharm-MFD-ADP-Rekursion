@@ -20,6 +20,6 @@ def rsum(n):
     return summe
 
 
-# main program
+# main program for both approaches
 print("summing up interatively: ", isum(10))
 print("summing up recursively: ", rsum(10))
